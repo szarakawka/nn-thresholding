@@ -1,0 +1,13 @@
+# numpy
+# tensorflow==2.3.0
+tensorflow
+tensorflow_probability
+tensorflow_addons
+matplotlib
+scipy
+notebook
+jupyter
+tqdm
+scikit-learn
+hopt
+
